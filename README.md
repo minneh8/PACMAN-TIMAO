@@ -1,4 +1,4 @@
-# 🦅 PAC-MAN: Edição Corinthians ⚽
+# 🦅 PAC-MAN: Corinthians ⚽
 
 ![C#](https://img.shields.io/badge/C%23-.NET%20Framework-blueviolet)
 ![Platform](https://img.shields.io/badge/Plataforma-Windows%20Forms-blue)
@@ -59,4 +59,4 @@ O objetivo principal do projeto foi construir um jogo funcional em C# no ambient
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone [https://github.com/seu-usuario/pacman-corinthians.git](https://github.com/seu-usuario/pacman-corinthians.git)
+   git clone [https://github.com/seu-usuario/pacman-corinthians.git](https://github.com/seu-usuario/PACMAN-TIMAO.git)
